@@ -1,1 +1,1 @@
-let celeste = "Mi niña hermosa";
+let celeste = "Mi bebé hermosa";
